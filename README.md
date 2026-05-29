@@ -1,5 +1,5 @@
 Hi, I'm Nick 👋
-Quantitative trading & machine learning in financial markets. I build and backtest systematic strategies in Python — from statistical arbitrage to deep learning and LLM-driven signals.
+Quantitative trading & machine learning in financial markets. I vibe-code and backtest systematic strategies in Python — from statistical arbitrage to deep learning and LLM-driven signals.
 
 🔭 Focus areas
 
