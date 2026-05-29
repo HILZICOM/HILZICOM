@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Nick 👋
+Quantitative trading & machine learning in financial markets. I build and backtest systematic strategies in Python — from statistical arbitrage to deep learning and LLM-driven signals.
 
-<!--
-**HILZICOM/HILZICOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Focus areas
 
-Here are some ideas to get you started:
+Statistical Arbitrage — cointegration, pairs trading, mean reversion
+ML Alpha Signals — feature engineering & gradient boosting with walk-forward validation
+Deep Learning & LLMs — sequence models and LLM-based market sentiment
+Crypto & Microstructure — multi-asset backtesting on high-frequency data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 Contact
+
+✉️ nick@hilzi.com
+💼 https://www.linkedin.com/in/nick-hilzendegen-408992252/
